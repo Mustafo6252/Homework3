@@ -1,0 +1,14 @@
+/Users/macbook/RiderProjects/HomeTask3_day3/bin/Debug/net9.0/HomeTask3_day3
+/Users/macbook/RiderProjects/HomeTask3_day3/bin/Debug/net9.0/HomeTask3_day3.deps.json
+/Users/macbook/RiderProjects/HomeTask3_day3/bin/Debug/net9.0/HomeTask3_day3.runtimeconfig.json
+/Users/macbook/RiderProjects/HomeTask3_day3/bin/Debug/net9.0/HomeTask3_day3.dll
+/Users/macbook/RiderProjects/HomeTask3_day3/bin/Debug/net9.0/HomeTask3_day3.pdb
+/Users/macbook/RiderProjects/HomeTask3_day3/obj/Debug/net9.0/HomeTask3_day3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macbook/RiderProjects/HomeTask3_day3/obj/Debug/net9.0/HomeTask3_day3.AssemblyInfoInputs.cache
+/Users/macbook/RiderProjects/HomeTask3_day3/obj/Debug/net9.0/HomeTask3_day3.AssemblyInfo.cs
+/Users/macbook/RiderProjects/HomeTask3_day3/obj/Debug/net9.0/HomeTask3_day3.csproj.CoreCompileInputs.cache
+/Users/macbook/RiderProjects/HomeTask3_day3/obj/Debug/net9.0/HomeTask3_day3.dll
+/Users/macbook/RiderProjects/HomeTask3_day3/obj/Debug/net9.0/refint/HomeTask3_day3.dll
+/Users/macbook/RiderProjects/HomeTask3_day3/obj/Debug/net9.0/HomeTask3_day3.pdb
+/Users/macbook/RiderProjects/HomeTask3_day3/obj/Debug/net9.0/HomeTask3_day3.genruntimeconfig.cache
+/Users/macbook/RiderProjects/HomeTask3_day3/obj/Debug/net9.0/ref/HomeTask3_day3.dll
